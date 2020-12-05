@@ -1,9 +1,3 @@
-<i>Nada no mundo pode superar a boa e velha persistência. O talento não supera, não há nada mais comum que talentosos fracassados. A genialidade não supera, um gênio desconhecido é praticamente um clichê. A educação não supera, o mundo está cheio de tolos educados. A persistência e a determinação são muito poderosas.</i>
-
-<i>Mostre que você não pode ser derrotado por nada, que tem paz interior, uma saúde incrível e uma energia forte constante. Se você buscar viver essas coisas todos os dias, os resultados serão óbvios para você.</i>
-
-<i>Por mais que possa parecer uma fantasia, cabe a você criar o seu próprio futuro. A maior descoberta de minha geração, é que os seres humanos podem mudar as suas vidas, mudando o seu modo de pensar; ou como Ralph Waldo Emerson afirmou: "o homem é o que ele costuma pensar durante todo o dia".</i> - mensagem do filme Fome de Poder.
-
 <!--
 **juanvl/juanvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanvl&hide=php,ruby,objective-c,hack&layout=compact&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
