@@ -9,7 +9,7 @@ Atuo como Front-end e atualmente trabalho principalmente com as tecnologias Reac
 
 ## ⚡ Tecnologias
 
-Algumas tecnologias que trabalho atualmente:
+Algumas tecnologias com que trabalho atualmente:
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
