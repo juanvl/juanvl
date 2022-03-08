@@ -1,15 +1,16 @@
-### Opa, tudo bem?
+### Hello!
 
-Sou o Juan, desenvolvedor de software desde 2012. Sou de Santa Catarina e estou morando na grande Florianópolis.
+I'm Juan, a software developer since 2012. I'm from Santa Catarina and I'm living in Florianópolis.
 
-Atuo como Front-end e atualmente trabalho principalmente com as tecnologias React e Typescript.
+I work as a Front-end and currently work mainly with React and Typescript technologies.
 
 [![Linkedin: Juan](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jnvleite/)](https://www.linkedin.com/in/jnvleite/)
 
+"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
 
-## ⚡ Tecnologias
+## ⚡ Technologies
 
-Algumas tecnologias com que trabalho atualmente:
+Some technologies I currently work with:
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=F7DF1E)
@@ -22,7 +23,7 @@ Algumas tecnologias com que trabalho atualmente:
 ![Gitlab](https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=flat-square&logo=gitlab&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-Algumas outras tecnologias com que já trabalhei:
+Some other technologies I've worked with:
 
 ![React Native](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=flat-square&logo=Flutter&logoColor=white)
